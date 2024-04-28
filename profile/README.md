@@ -1,4 +1,4 @@
-# College R&D Team - README
+# Welcome to the BCC Esports R&D Team!!👋
 
 Welcome to the official repository of the Brookdale Community College Research & Development Team! Our team focuses on pioneering innovative solutions and conducting research that can make a significant impact both in academia and in practical applications.
 
