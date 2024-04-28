@@ -12,7 +12,7 @@ We are a student run group at the Esports Arena. We are a group dedicated to cre
 
 ## How to Contribute
 
-We welcome contributions from students, faculty, and external researchers. If you're interested in collaborating, please follow these steps:
+Get in contact via the BCC-Esports Arena discord and ask the current Project manager for the appropriate roles.
 
 - **Explore Current Issues:** Check out the 'Issues' tab for ongoing projects and areas where we need help.
 - **Submit a Pull Request:** After making your changes, submit a pull request. Please ensure your code adheres to our contribution guidelines.
